@@ -1,4 +1,12 @@
-#include <bits/stdc++.h>
+/*
+* Problem   - 339A - Helpful Maths
+* Reference - https://codeforces.com/contest/339/problem/A
+*/
+
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
 
 using namespace std;
 
